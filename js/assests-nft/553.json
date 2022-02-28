@@ -1,0 +1,50 @@
+{
+  "name": "Punky giraffe #553",
+  "symbol": "PGC",
+  "description": "One of the 555 punkys giraffes",
+  "seller_fee_basis_points": 800,
+  "image": "553.png",
+  "external_url": "https://www.punky-giraffe.com",
+  "edition": 553,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Neackl",
+      "value": "Diamond Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "553.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5boh4EUi49G5kgbYD4J7ydeZve7uMWQ51Yt9cgNoDaoy",
+        "share": 100
+      }
+    ]
+  }
+}
